@@ -1,19 +1,14 @@
 #+TITLE: calleha's website
 #+AUTHOR: calleha
+#+OPTIONS: num:nil line-break:t
+#+HTML_HEAD: <style type="text/css">body{ max-width:65%; margin: auto; }</style>
+#+HTML_HEAD: <style>.figure-number { display: none; }</style>
 
-* calleha's website
-nothing here yet
 ** donate
-xmr: 44myXHVKjtyBLKR4PSCAkqS8byRAGaNXNUKBVaP5w8CU5T5NHibGHJJi7PTAcqjJ8CHaYdzsEaFggjLBNY3fFMRYS8iPK9K
 
-#+CAPTION: xmr
-#+ATTR_HTML: :align left
+#+CAPTION: xmr: 44myXHVKjtyBLKR4PSCAkqS8byRAGaNXNUKBVaP5w8CU5T5NHibGHJJi7PTAcqjJ8CHaYdzsEaFggjLBNY3fFMRYS8iPK9K
 [[https://calleha.github.io/xmrdonate.png]]
-
-btc: bc1q8gshlpctskdmtervyg68mrafmxacqm7x8n0rkz
-
-#+CAPTION: btc
-#+ATTR_HTML: :align left
+#+CAPTION: btc: bc1q8gshlpctskdmtervyg68mrafmxacqm7x8n0rkz
 [[https://calleha.github.io/btcdonate.png]]
 
 or if your wallet supports OpenAlias you can enter donate@calleha.com as the address
