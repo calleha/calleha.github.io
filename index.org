@@ -1,0 +1,7 @@
+* calleha's website
+nothing here yet
+** donate
+xmr: 44myXHVKjtyBLKR4PSCAkqS8byRAGaNXNUKBVaP5w8CU5T5NHibGHJJi7PTAcqjJ8CHaYdzsEaFggjLBNY3fFMRYS8iPK9K
+[[~/.local/src/calleha.github.io/xmrdonate.png]]
+btc: bc1q8gshlpctskdmtervyg68mrafmxacqm7x8n0rkz
+[[~/.local/src/calleha.github.io/btcdonate.png]]
