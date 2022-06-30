@@ -6,9 +6,9 @@
 
 ** donate
 
-#+CAPTION: xmr: 44myXHVKjtyBLKR4PSCAkqS8byRAGaNXNUKBVaP5w8CU5T5NHibGHJJi7PTAcqjJ8CHaYdzsEaFggjLBNY3fFMRYS8iPK9K
+#+CAPTION: xmr: 49ecvUzk6DN1UJYHsN5poZ5UGsdrLsrBPNXPwvZKkonsdZJGU2wx5N2RapwXT6rcJeYjm9JdfbW8NWx2R8DBStj24okEkuV
 [[https://calleha.github.io/xmrdonate.png]]
-#+CAPTION: btc: bc1q8gshlpctskdmtervyg68mrafmxacqm7x8n0rkz
+#+CAPTION: btc: bc1qkzwhwz4yuvyanzca49zy8suwen4kx7zp3sr6dk
 [[https://calleha.github.io/btcdonate.png]]
 
 or if your wallet supports OpenAlias you can enter donate@calleha.com as the address
