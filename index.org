@@ -1,7 +1,7 @@
 #+TITLE: calleha's website
 #+AUTHOR: calleha
 #+OPTIONS: num:nil line-break:t
-#+HTML_HEAD: <style type="text/css">body{ max-width:65%; margin: auto; }</style>
+#+HTML_HEAD: <style type="text/css">body{ max-width:65%; margin: auto; background-color: black; color: white; }</style>
 #+HTML_HEAD: <style>.figure-number { display: none; }</style>
 
 ** donate
